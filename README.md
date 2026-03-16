@@ -2,12 +2,9 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3700&pause=1000&color=FF5402&center=true&vCenter=true&width=435&lines=Offensive+security+engineer%2C;penetration+tester%2C;fully-fledged+python+developer" alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/07xS4h3r.png" />
-</div>
-
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Passionate python developer, and penetration tester
-<!-- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me anything about **Python, Ethical hacking, or Penetration testing** -->
+<p align="center">
+   <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Passionate python developer, and penetration tester
+</p>
 
 ## Operating Systems
 <div align="center">
